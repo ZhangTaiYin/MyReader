@@ -7,16 +7,6 @@
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/Y/Desktop/fastjson-1.2.47.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/Y/Desktop/ojdbc14.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0 (2)">
 		<attributes>
 			<attribute name="owner.project.facets" value="jst.web"/>
@@ -24,5 +14,7 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/Y/Desktop/fastjson-1.2.47.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Y/Desktop/ojdbc14.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

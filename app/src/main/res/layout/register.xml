@@ -8,11 +8,11 @@
     tools:context=".Register">
 
     <TextView
-        android:id="@+id/logintitle"
+        android:id="@+id/registertitle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:text="TextView"
+        android:text="注册界面"
         android:textColor="@android:color/black"
         android:textSize="0.2in"
         tools:text="注册界面" />

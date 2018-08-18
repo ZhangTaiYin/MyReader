@@ -12,7 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:text="TextView"
+        android:text="登录界面"
         android:textColor="@android:color/black"
         android:textSize="0.2in"
         tools:text="登录界面" />
