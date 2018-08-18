@@ -7,7 +7,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
-public class Welcome extends AppCompatActivity {
+public class Login extends AppCompatActivity {
     private EditText name;
     private EditText pass;
     private Button  login;
@@ -15,7 +15,7 @@ public class Welcome extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_welcome);
+        setContentView(R.layout.login);
         name = findViewById(R.id.usernameEV);
         pass = findViewById(R.id.passwordEV);
         login = findViewById(R.id.loginbt);

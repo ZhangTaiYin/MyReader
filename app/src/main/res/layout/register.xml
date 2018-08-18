@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".Welcome">
+    tools:context=".Register">
 
     <TextView
         android:id="@+id/logintitle"
@@ -15,7 +15,7 @@
         android:text="TextView"
         android:textColor="@android:color/black"
         android:textSize="0.2in"
-        tools:text="登录界面" />
+        tools:text="注册界面" />
 
     <LinearLayout
         android:layout_width="match_parent"

@@ -23,7 +23,7 @@
         android:orientation="horizontal">
 
         <Button
-            android:id="@+id/mlogin"
+            android:id="@+id/loginbt"
             style="@android:style/Widget.Material.Light.Button.Inset"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
@@ -34,7 +34,7 @@
             android:text="登录" />
 
         <Button
-            android:id="@+id/msign"
+            android:id="@+id/registerbt"
             style="@android:style/Widget.Material.Light.Button.Inset"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
